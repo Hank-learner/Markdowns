@@ -9,9 +9,9 @@ Robert Downey Jr acts as Iron man in the MCU.
   - acted in civil war
   
 # About  
-See [MCU -Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
-See [Iron-man WIkipedia](https://en.wikipedia.org/wiki/Iron_Man)
-See [Iron-man movie series-IMDB](https://www.imdb.com/list/ls066607305/)
+See [MCU -Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)<br>
+See [Iron-man WIkipedia](https://en.wikipedia.org/wiki/Iron_Man)<br>
+See [Iron-man movie series-IMDB](https://www.imdb.com/list/ls066607305/)/<br>
 See [Robert Downey Jr-Wikipedia](https://en.wikipedia.org/wiki/Robert_Downey_Jr.)
 
 # Introduction of plot
