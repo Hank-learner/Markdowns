@@ -9,7 +9,6 @@ Robert Downey Jr acts as Iron man in the MCU.
   
 See [MCU -Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
 See [Iron-man WIkipedia](https://en.wikipedia.org/wiki/Iron_Man)
-See [Iron-man movie series-IMDB](https://www.imdb.com/list/ls031793473/)
 See [Robert Downey Jr-Wikipedia](https://en.wikipedia.org/wiki/Robert_Downey_Jr.)
 
  >A wealthy American business magnate, playboy, and ingenious scientist, Anthony Edward "Tony" Stark suffers a severe chest injury during a kidnapping. When his captors attempt to force him to build a weapon of mass destruction, he instead creates a powered suit of armor to save his life and escape captivity. Later, Stark develops his suit, adding weapons and other technological devices he designed through his company, Stark Industries. He uses the suit and successive versions to protect the world as Iron Man.
