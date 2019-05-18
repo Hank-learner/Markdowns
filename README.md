@@ -7,8 +7,7 @@ Robert Downey Jr acts as Iron man in the MCU.
   - acted in the avengers series
   - acted in spiderman homecoming
   - acted in civil war
-  - acted in incredible hulk 
-  
+  - acted in the incredible hulk
 
 # About  
 See [MCU -Wikipedia](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)<br>
